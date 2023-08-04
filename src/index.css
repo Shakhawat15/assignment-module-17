@@ -1,0 +1,11 @@
+body {
+    background-color: #e3d9cf;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+.redBorder {
+    border: 2px solid #FF0000;
+}
